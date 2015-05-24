@@ -6,6 +6,6 @@
 },
 
 "autoload": {
-	"psr-0": {"Remote": "src/"}
+	"psr-0": {"Remote\\": "src/"}
 }
 }
