@@ -1,0 +1,7 @@
+{
+"name" : "balto/composer_dep_test_1",
+"description": "Just test",
+"require": {
+"php": ">=5.3.0"
+}
+}
