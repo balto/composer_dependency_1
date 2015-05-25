@@ -6,6 +6,6 @@ class Test
 {
 	public function whoIsTheKing()
     {
-        echo "Balazs is the king!!!";
+        echo "Balazs is the king!!!" . PHP_EOL;
     }
 }
